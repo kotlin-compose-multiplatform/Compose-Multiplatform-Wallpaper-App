@@ -2,7 +2,7 @@ This is a Kotlin Multiplatform Wallpaper project targeting Android, iOS.
 
 # My first Cross android / ios app
 
-![](Wallpaper.mp4)
+![Demo](Wallpaper.gif)
 
 * `/composeApp` is for code that will be shared across your Compose Multiplatform applications.
   It contains several subfolders:
